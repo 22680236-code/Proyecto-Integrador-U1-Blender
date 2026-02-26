@@ -9,10 +9,7 @@ El objetivo es crear un script de Python que, al ejecutarse en Blender, genere a
 1.  **Geometría Curva:** Uso de funciones matemáticas (seno) para curvar el camino.
 2.  **Animación Automática:** Generación de fotogramas clave (keyframes) vía código para que una cámara recorra el camino generado suavemente.
 
-### Resultado Visual
 
-*(Si subiste la imagen en el Paso 3, se verá aquí automáticamente)*
-![Vista del Escenario Generado](resultado_escenario.png)
 
 ---
 
